@@ -691,6 +691,14 @@ CREATE INDEX idx_testcases_problem_index ON Testcase(problemId, index);
 <a href="https://codeforces.com/profile/naivedyam"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 <a href="https://linkedin.com/in/naivedyam-mishra-20a23398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </td>
+<td align="center" width="200">
+<img src="https://github.com/nithin-raj-9100.png" width="100" style="border-radius: 50%"/>
+<br/><b>Nithin Raj Chouhan</b>
+<br/><sub>Founding Engineer</sub>
+<br/>
+<a href="https://github.com/nithin-raj-9100"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nithin-raj-32311222b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</td>
 </tr>
 </table>
 
